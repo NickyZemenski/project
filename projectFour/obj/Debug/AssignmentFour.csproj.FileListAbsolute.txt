@@ -1,0 +1,10 @@
+C:\Users\zemen\source\repos\AssignmentFour\bin\Debug\AssignmentFour.exe.config
+C:\Users\zemen\source\repos\AssignmentFour\bin\Debug\AssignmentFour.exe
+C:\Users\zemen\source\repos\AssignmentFour\bin\Debug\AssignmentFour.pdb
+C:\Users\zemen\source\repos\AssignmentFour\obj\Debug\AssignmentFour.csprojAssemblyReference.cache
+C:\Users\zemen\source\repos\AssignmentFour\obj\Debug\AssignmentFour.Form1.resources
+C:\Users\zemen\source\repos\AssignmentFour\obj\Debug\AssignmentFour.Properties.Resources.resources
+C:\Users\zemen\source\repos\AssignmentFour\obj\Debug\AssignmentFour.csproj.GenerateResource.cache
+C:\Users\zemen\source\repos\AssignmentFour\obj\Debug\AssignmentFour.csproj.CoreCompileInputs.cache
+C:\Users\zemen\source\repos\AssignmentFour\obj\Debug\AssignmentFour.exe
+C:\Users\zemen\source\repos\AssignmentFour\obj\Debug\AssignmentFour.pdb

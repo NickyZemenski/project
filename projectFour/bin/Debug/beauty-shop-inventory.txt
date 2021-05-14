@@ -1,0 +1,3 @@
+Hello|sfdsdf|45
+am good|fff|45|6
+my human|df|5
